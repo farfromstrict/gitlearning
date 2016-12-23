@@ -26,7 +26,7 @@
 - git config --global user.email "xxx@yyy.com"
 - git config --global color.ui "auto" ```彩色显示```
 - git config --global alias.ci "commit" ```别名```
-- git config --global credential.helper cache ```缓存密码(默认15分钟)```
+- git config --global credential.helper store ```存储密码```
 
 <br/>
 ## 信息查询
