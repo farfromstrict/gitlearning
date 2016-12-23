@@ -55,7 +55,7 @@
 
 <br/>
 ## 跟踪文件
-git branch
+git br
 
 
 <br/>
